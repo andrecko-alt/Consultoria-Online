@@ -1,0 +1,8 @@
+PACOTE DE PUBLICAÇÃO — TREINO ANDRÉ MACHADO
+
+1. Acesse o Vercel Drop pelo navegador.
+2. Envie a pasta "treino_andre_publicacao" ou os arquivos desta pasta.
+3. O arquivo principal é index.html.
+4. Após a publicação, a Vercel fornecerá um endereço público para teste.
+
+Esta versão usa a matriz funcional aprovada como base visual.
